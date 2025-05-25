@@ -16,5 +16,7 @@ class ProfileActivity2 : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
+
+        //iniadalah fitur di prifle 2
     }
 }
