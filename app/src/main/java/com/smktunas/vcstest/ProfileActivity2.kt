@@ -18,5 +18,6 @@ class ProfileActivity2 : AppCompatActivity() {
         }
 
         //iniadalah fitur di prifle 2
+        //feature line w
     }
 }
